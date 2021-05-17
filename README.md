@@ -4,5 +4,7 @@ This token is created in order to support the Tron network and ecosystem by toke
 This token is being issued in order to reward our community.
 
 www.askthenerd.net
+www.thenerdiverse.org
+www.nerd-chic.com
 
 More to come.
